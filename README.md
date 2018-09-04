@@ -1,4 +1,4 @@
-# Design-Dependencies-of-Computer-Componenets
+# Design-Dependencies-of-Computer-Components
 
 
 Interview Question :
